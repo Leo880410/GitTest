@@ -37,5 +37,6 @@ namespace GitTestForm
         }
 >>>>>>> Julie_branch2
         //branch 1 commit 1
+        //.....................
     }
 }
