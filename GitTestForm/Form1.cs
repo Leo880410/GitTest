@@ -33,6 +33,7 @@ namespace GitTestForm
         {
             int a;
             int b;//try merge
+            int c;//14:54
         }
 >>>>>>> Julie_branch2
         //branch 1 commit 1
