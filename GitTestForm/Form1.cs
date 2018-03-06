@@ -14,16 +14,26 @@ namespace GitTestForm
         //test
         //123 
         //hello
+        //Julie new branch 1218
+        
         public Form1()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void button1_Click(object sender, EventArgs e)
         {
 
         }
 
+=======
+        private void woo() 
+        {
+            int a;
+            int b;//try merge
+        }
+>>>>>>> Julie_branch2
         //branch 1 commit 1
     }
 }
