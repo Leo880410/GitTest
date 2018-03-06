@@ -7,5 +7,3 @@ d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm
 d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\obj\x64\Debug\GitTestForm.pdb
 D:\Users\hmi106657\Documents\GitTest\GitTestForm\obj\x64\Debug\GitTestForm.exe
 D:\Users\hmi106657\Documents\GitTest\GitTestForm\obj\x64\Debug\GitTestForm.pdb
-D:\Users\hmi106722\Documents\GitTest\GitTestForm\obj\x64\Debug\GitTestForm.exe
-D:\Users\hmi106722\Documents\GitTest\GitTestForm\obj\x64\Debug\GitTestForm.pdb
