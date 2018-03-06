@@ -35,7 +35,7 @@ namespace GitTestForm
             int b;//try merge
             int c; //1514
             int d;
-
+            int e;//1516
 
         }
 
