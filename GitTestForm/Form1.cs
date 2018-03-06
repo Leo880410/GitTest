@@ -24,6 +24,7 @@ namespace GitTestForm
         {
             int a;
             int b;//try merge
+            int d;
         }
         //branch 1 commit 1
     }
