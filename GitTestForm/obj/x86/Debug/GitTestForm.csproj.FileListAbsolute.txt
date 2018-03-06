@@ -1,0 +1,7 @@
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\bin\Debug\GitTestForm.exe
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\bin\Debug\GitTestForm.pdb
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\obj\x86\Debug\GitTestForm.Form1.resources
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\obj\x86\Debug\GitTestForm.Properties.Resources.resources
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\obj\x86\Debug\GitTestForm.csproj.GenerateResource.Cache
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\obj\x86\Debug\GitTestForm.exe
+d:\users\hmi106689\documents\visual studio 2010\Projects\GitTestForm\GitTestForm\obj\x86\Debug\GitTestForm.pdb
