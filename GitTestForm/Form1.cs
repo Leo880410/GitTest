@@ -50,6 +50,9 @@ namespace GitTestForm
 
         //123123123321
         //Ju
-
+        public void DoSomething()
+        {
+            int randomNumber = 0;
+        }
     }
 }
