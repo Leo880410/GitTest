@@ -20,7 +20,10 @@ namespace GitTestForm
         {
             InitializeComponent();
         }
-        private void woo() { }
+        private void woo() 
+        {
+            int a;
+        }
         //branch 1 commit 1
     }
 }
