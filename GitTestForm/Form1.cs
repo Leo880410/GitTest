@@ -20,7 +20,7 @@ namespace GitTestForm
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
+
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -28,18 +28,17 @@ namespace GitTestForm
             //1456 J
         }
 
-=======
+
         private void woo() 
         {
             int a;
             int b;//try merge
-<<<<<<< HEAD
+            int c; //1514
             int d;
-=======
-            int c;//14:54
->>>>>>> AA
+
+
         }
->>>>>>> Julie_branch2
+
         //branch 1 commit 1
     }
 }
