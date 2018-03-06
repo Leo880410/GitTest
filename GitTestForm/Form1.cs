@@ -19,6 +19,11 @@ namespace GitTestForm
             InitializeComponent();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         //branch 1 commit 1
     }
 }
