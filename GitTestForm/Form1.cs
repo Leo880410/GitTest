@@ -23,6 +23,7 @@ namespace GitTestForm
         private void woo() 
         {
             int a;
+            int b;//try merge
         }
         //branch 1 commit 1
     }
