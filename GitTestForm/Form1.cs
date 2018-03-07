@@ -51,6 +51,12 @@ namespace GitTestForm
 
         //123123123321
         //Ju
+        public void DoSomething()
+        {
+            int randomNumber = 0;
+            string BeiChi = "Allen";
+        }
+
         //Jule 1717
         //201803061731
     }
