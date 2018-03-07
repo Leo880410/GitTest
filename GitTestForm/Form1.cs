@@ -54,9 +54,10 @@ namespace GitTestForm
         public void DoSomething()
         {
             int randomNumber = 0;
-            //201803071519
-            string BeiChi = "Julie";
-            //揪利亞
+            string BeiChi = "To揪利亞m";
+            //201803071516
+            int abc;
+
         }
 
         //Jule 1717
