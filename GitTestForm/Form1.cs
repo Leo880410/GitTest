@@ -56,6 +56,8 @@ namespace GitTestForm
             int randomNumber = 0;
             //201803071513
             string BeiChi = "Toooom";
+            //201803071516
+            int abc;
         }
 
         //Jule 1717
