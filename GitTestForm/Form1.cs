@@ -11,11 +11,7 @@ namespace GitTestForm
 {
     public partial class Form1 : Form
     {
-        //test
-        //123 
-        //hello
-        //Julie new branch 1218
-        //TRY TRY SEE
+        
         
         public Form1()
         {
@@ -23,44 +19,6 @@ namespace GitTestForm
         }
 
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            //???
-            //1456 J
-        }
-
-
-        private void woo() 
-        {
-            int a;
-            int b;//try merge
-            int c; //1514
-            int d;
-            int e;//1516
-
-        }
-
-        //branch 1 commit 1
-        //.....................
-
-
-        public void A() 
-        {
-            //15:24
-        }
-
-        //123123123321
-        //Ju
-        public void DoSomething()
-        {
-            int randomNumber = 0;
-            string BeiChi = "To揪利亞m";
-            //201803071516
-            int abc;
-
-        }
-
-        //Jule 1717
-        //201803061731
+     
     }
 }
