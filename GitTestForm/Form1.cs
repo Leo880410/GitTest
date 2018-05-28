@@ -17,7 +17,10 @@ namespace GitTestForm
         {
             InitializeComponent();
         }
-
+        public void t1()
+        {
+    
+        }
 
      
     }
