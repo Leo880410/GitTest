@@ -12,14 +12,22 @@ namespace GitTestForm
     public partial class Form1 : Form
     {
         //20180726_03:25 commit change on branch
-        //test
+        //master edit
         //123 
+<<<<<<< HEAD
         //branch1 edited
         //Julie new branch 1218
         //TRY TRY SEE
         //20180726 branch commit
         //20180726 branch1 commit
 
+=======
+        //master edit
+        //Julie new branch 1218
+        //TRY TRY SEE
+        //20180726 branch commit
+        //20180726 master commit
+>>>>>>> master
 
         public Form1()
         {
