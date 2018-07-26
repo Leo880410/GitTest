@@ -14,10 +14,11 @@ namespace GitTestForm
         //20180726_03:25 commit change on branch
         //test
         //123 
-        //hello
+        //branch1 edited
         //Julie new branch 1218
         //TRY TRY SEE
         //20180726 branch commit
+        //20180726 branch1 commit
 
 
         public Form1()
