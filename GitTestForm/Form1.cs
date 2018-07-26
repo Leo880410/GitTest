@@ -16,7 +16,9 @@ namespace GitTestForm
         //hello
         //Julie new branch 1218
         //TRY TRY SEE
-        
+        //20180726 branch commit
+
+
         public Form1()
         {
             InitializeComponent();
